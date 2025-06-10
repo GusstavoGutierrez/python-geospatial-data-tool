@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<dados>
+  <registro>
+    <nome>Machu Picchu</nome>
+    <latitude>-13.1631</latitude>
+    <longitude>-72.5450</longitude>
+  </registro>
+  <registro>
+    <nome>Muralha da China</nome>
+    <latitude>40.4319</latitude>
+    <longitude>116.5704</longitude>
+  </registro>
+  <registro>
+    <nome>Taj Mahal</nome>
+    <latitude>27.1751</latitude>
+    <longitude>78.0421</longitude>
+  </registro>
+</dados>
